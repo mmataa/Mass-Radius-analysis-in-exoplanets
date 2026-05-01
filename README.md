@@ -1,2 +1,2 @@
-# exoplanetas_regresion
-En este repositorio se guardarán los programas realizados para analizar la base de datos de la NASA que contiene los exoplanetas confirmados.
+# Mass-radius analysis in exoplanets
+In this repository you can find the code and figures I obtained by analysing the data from 1881 exoplanets reported in the Exoplanet.eu database.
